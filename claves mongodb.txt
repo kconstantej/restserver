@@ -1,0 +1,7 @@
+user : admin
+password : XQXN3azYEdZ0Yo8r
+mongodb+srv://admin:XQXN3azYEdZ0Yo8r@cluster0-q9zgn.mongodb.net/cafe
+
+user : cafe_user
+password : bhLtg63RV1mrxyGj
+mongodb+srv://cafe_user:bhLtg63RV1mrxyGj@cluster0-q9zgn.mongodb.net/cafe
